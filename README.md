@@ -202,3 +202,7 @@ ya que para el testing tendrás que usar una herramienta llamada
 
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
 como: contraste, alineación, jerarquía, entre otros.
+
+
+## Documentación
+Puedes revisar la documentación en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ?usp=sharing).
