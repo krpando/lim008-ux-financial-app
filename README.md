@@ -1,208 +1,47 @@
 # Aplicación financiera
 
-## Preámbulo
+## Índice
 
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
+* [Introducción](#introduccion)
+* [Objetivos del proyecto](#objetivos-del-proyecto)
+* [Problemas encontrados](#problemas-encontrados)
+* [Recomendaciones](#recomendaciones)
+* [Link de Zeplin](#link-de-Zeplin)
+* [Video Loom explicativo](#video-Loom-explicativo)
 
 ## Introducción
 
-### Contexto
+El papel del desarrollo tecnológico en la industria financiera ya es un imperativo, una necesidad casi inherente de las entidades bancarias. En la actualidad es impensable contratar un servicio o producto bancario sin tener a disposición la opción de realizar transacciones o consultas a través de una banca celular, página web o aplicativo móvil. El proceso de transformación tecnológica e innovación digital de servicios financieros ha estado liderado por EEUU y Europa. En el 2018 el banco BBVA (España) fue reconocido por segundo año consecutivo como la entidad con la mejor aplicación móvil de banca a nivel mundial,  por encima de Garanti (Turquía) y de un total de 42 bancos de 11 países (Forrester, 2018). 
 
-Durante la primera semana de entendimiento de los requerimientos, el Product
-Manager del equipo les brinda el contexto:
+A nivel de Latinoamérica, países como Brasil, México y Argentina constituyen los principales mercados que cuentan con aplicaciones de un alcance importante entre sus usuarios. En el año 2014, Technisys y la Universidad de Stanford realizaron un estudio en América Latina  donde el 90% de los bancos indicó que la razón por la que alcanzaron su capacidad digital fue para continuar siendo competitivos y adquirir clientes jóvenes; por otro lado, en pensando en los próximos 5 años, el 72% refirió que piensa que sus clientes no requerirán tener que ir personalmente a las sucursales.
 
->“Todo empezó hace un año cuando vimos que en EEUU y Europa estaban saliendo
-  nuevas aplicaciones financieras que nos llamaron la atención. Unas se enfocan
-  en darle visibilidad a sus usuarios sobre los gastos, otras en facilitar pagos
-  a terceros y otras a fomentar el ahorro. Inspirados en un par de ellas,
-  decidimos lanzar una nueva aplicación. Decidimos que era mejor crear un
-  producto desde cero - en lugar de modificar la aplicación actual de banca
-  móvil - para poder desarrollarla con un equipo totalmente nuevo, en el
-  laboratorio de innovación, bajo prácticas ágiles. Sabemos que no es ideal que
-  nuestros usuarios tengan que usar dos aplicaciones, pero desarrollar con un
-  equipo nuevo que corra ágil nos da mayor libertad.
+Con respecto a la conducta de ahorro, control de gastos y otros hábitos gestión financiera, un estudio de Mercawise a nivel de México determinó que el 45% de los encuestados ahorra a través de una entidad bancaria; además, indicó que solo un 8.5% conocía planes de ahorro, mientras que a un 47.5% le gustaría comenzar un plan de ahorro con alguna compañía que se acople a tus necesidades. 
 
-> Empezamos entrevistando a algunos usuarios y revisando los resultados de un
-  estudio de mercado que nos proporcionó el área de marketing. Eso nos dió una
-  idea inicial de qué funcionalidades son más relevantes aquí en nuestro
-  mercado. Con base en esos resultados, creamos nuestros primeros user personas
-  una primaria y una secundaria ( creemos que estas personas no son las que
-  nosotros pensábamos inicialmente), y diseñamos y desarrollamos un ‘Producto
-  mínimo viable’ (MVP) en 2 meses en iOS. Ese MVP lo hemos lanzado y tenemos
-  alrededor de 6 meses de data. Hoy estamos en el proceso de entender los
-  resultados iniciales y de sacar una segunda iteración del producto. Y para eso
-  las hemos contratado. Toda la documentación de este producto la tenemos en una
-  carpeta de [Google Drive](http://bit.ly/uxd-reto-2). Les doy acceso.
-  
-> Necesitamos traer una propuesta del nuevo diseño en dos semanas porque tenemos
-  que presentarla a nuestro Gerente General en la reunión trimestral. Es
-  importante que cualquier cosa que presentemos ya incorpore feedback de testing
-  con usuarios. El Gerente General, animado por el crecimiento del número de
-  descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook
-  Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
-  próximas dos semanas, entendamos ese punto también.”
+En el Perú, según el Departamento de Estudios Económicos de Scotiabank, el ahorro de las personas continuó en aumento durante los primeros meses del 2018, pasando a un ritmo de 10% a 14% en comparación del 2017; lo que indica una tendencia al crecimiento de esta conducta y que puede explicarse a causa de la Ley 95,5%, que permitió a las personas que acceden a la jubilación, disponer de hasta el 95.5% de sus fondos de pensiones. En este mismo estudio, se extrae que las personas mantuvieron su preferencia por ahorrar en moneda nacional.
 
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y la transformación digital del rubro financiero, existe una gran oportunidad para introducir productos digitales prestos a atender necesidades financieras y potenciar las soluciones de banca ya existentes.
 
-### Recursos
+## Objetivos del proyecto
 
-En esta carpeta de [Google Drive](http://bit.ly/uxd-reto-2) y en los siguientes
-links, encontrarán:
+## Implementación
 
-- Los user persona primario y secundario del proyecto
-- Los user flows iniciales y actuales del proyecto del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
-- Funnel Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
+### Presupuesto
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
+|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
+|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
+|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
+|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
+|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|| **TOTAL** | **290** |
 
-## Objetivos de aprendizaje
+## Problemas encontrados
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
-
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
-
-## Consideraciones generales
-
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
-
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
-
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
-
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
-
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
-
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y con el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
-
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  detallando:
-
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
-
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
-
-### Hacker edition
-
-Para el hacker edition puedes elegir una o varias de estas opciones:
-
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- Adapta el diseño del app para iPhone X/XS/XR.
-- Diseña un app para Apple Watch que complemente tu propuesta.
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
-  - [Hip Money](https://www.youtube.com/watch?v=BIesWRESgAc)
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+## Entendimiento del problema, la industria y el contexto
+"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. "Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
 
 
-## Documentación
-Puedes revisar la documentación en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ?usp=sharing).
+
+
