@@ -47,7 +47,7 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 
 ## Benchmark
 
-![benchmark](images/benchmark.png)
+![benchmark](images/benchmark.PNG)
 
 
 
