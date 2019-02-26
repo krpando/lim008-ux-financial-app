@@ -54,5 +54,7 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 
 ![benchmark](images/benchmark.PNG)
 
+## Documentación
+Puedes revisar la documentación de este proyecto en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ).
 
 
