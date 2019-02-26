@@ -22,6 +22,9 @@ En el Perú, según el Departamento de Estudios Económicos de Scotiabank, el ah
 De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y la transformación digital del rubro financiero, existe una gran oportunidad para introducir productos digitales prestos a atender necesidades financieras y potenciar las soluciones de banca ya existentes.
 
 ## Objetivos del proyecto
+* Realizar una propuesta de rediseño de app con un flujo centrado en el usuario.
+
+* Brindar recomendaciones de presupuesto y pasos a seguir para el desarrollo de las soluciones ideales.
 
 ## Implementación
 
