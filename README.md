@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [Introducción](#introduccion)
+* [Contexto](#contexto)
 * [Objetivos del proyecto](#objetivos-del-proyecto)
 * [Problemas encontrados](#problemas-encontrados)
 * [Recomendaciones](#recomendaciones)
@@ -25,6 +25,8 @@ Con respecto a la conducta de ahorro, control de gastos y otros hábitos gestió
 En el Perú, según el Departamento de Estudios Económicos de Scotiabank, el ahorro de las personas continuó en aumento durante los primeros meses del 2018, pasando a un ritmo de 10% a 14% en comparación del 2017; lo que indica una tendencia al crecimiento de esta conducta y que puede explicarse a causa de la Ley 95,5%, que permitió a las personas que acceden a la jubilación, disponer de hasta el 95.5% de sus fondos de pensiones. En este mismo estudio, se extrae que las personas mantuvieron su preferencia por ahorrar en moneda nacional.
 
 De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y la transformación digital del rubro financiero, existe una gran oportunidad para introducir productos digitales prestos a atender necesidades financieras y potenciar las soluciones de banca ya existentes.
+
+### Introducción
 
 "Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. "Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
 
@@ -59,12 +61,11 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || **TOTAL** | **290** |
 
+
 ## Investigación 
 
 ### Objetivo de negocio
-- Posicionarse como un banco que brinde una herramienta adicional a sus clientes que les ayude a controlar sus gastos y que fomente la cultura del ahorro en ellos.
-
-
+- Posicionarse como un banco que brinde una herramienta adicional a sus clientes a fomentar una cultura de ahorro y les ayude a llevar el control de sus gastos.
 
 ### Conclusiones de la entrevista con cliente
 
@@ -167,7 +168,9 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 ### User Flow
 
-### Prototype testing 
+## Prototipos
+
+## Testing
 
 ### Testing del prototipo inicial: 
 Decidimos testear el prototipo actual con una cantidad de 15 usuarios con el fin de obtener los primeros problemas, conocer cómo interactuan con las distintas funcionalidades que ofrece la app. Para este fin utilizamos como herramienta Maze.
