@@ -64,12 +64,13 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 ### Objetivo de negocio
 - Posicionarse como un banco que brinde una herramienta adicional a sus clientes que les ayude a controlar sus gastos y que fomente la cultura del ahorro en ellos.
 
+
+
+### Conclusiones de la entrevista con cliente
+
 Lee la [guía de entrevista al cliente](https://docs.google.com/document/d/1VUvD8Yw6R2EJ2qWMEscQPdg5pxXAbjsr2EWh6eUoSAU/edit)
 
-### Insights principales del negocio
-
-### Insights principales del usuario
-
+### Conclusiones de la entrevista con usuarios
 
 Lee la [guía de entrevista a usuario](https://docs.google.com/document/d/1fTS_hoWUfdpMc2ZxPnVSnDmG0xi_2y-Y3gRTQx5zIqw/edit?usp=drive_web&ouid=109584484767286568068)
 
@@ -86,6 +87,12 @@ Recursos entregados por nuestros clientes:
 ## Síntesis y definición
 
 ### Affinity Diagram
+
+### Insights principales del cliente
+
+### Insights principales de la entrevista con usuarios
+
+### Conclusiones del Affinity Map
 
 Mira nuestro [Affinity Map online]()
 
@@ -104,12 +111,48 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 ### Problemas a nivel de usuario
 
 ### Problem Statements
+* Toñita Savings necesita una manera rápida y segura de ingresar a la app financiera sin que le pidan sus credenciales cada vez que quiere revisar sus cuentas.
+
+* Toñita Savings necesita recibir recordatorios o notificaciones de su app cuando esté sobrepasando sus gastos, cuando haya alcanzado un hito en su meta de ahorro.
+
+* Toñita Savings necesita desarrollar el hábito de ahorrar teniendo opciones que se ajusten a la cantidad de dinero que gana y metas pequeñas o a corto plazo.
+
+* Toñita Savings necesita acceder a un producto bancario que le permita guardar sus ahorros y separarlos del resto de dinero del cual dispone.
+
+* Toñita Savings necesita comunicarse con su banco para resolver dudas sin tener que realizar una llamada o visitar las oficinas de forma física.
+
+* Julio Aguinaldo necesita recibir notificaciones de sus fechas de depósito a su cuenta ahorro, para autorizar el débito del monto programado.
 
 ### HMW
 
+* HMW generar en nuestros usuarios una sensación de seguridad al realizar operaciones en la aplicación?
+
+
 ### What if 
 
+* What if los clientes pueden utilizar la app para gestionar sus ahorros independientemente del banco al que pertenezcan.
+
+* What if Tus finanzas está integrada en la app nativa del banco.
+
+* What if integramos un chatbot en la aplicación.
+
+* What if la aplicación también está disponible para Android.
+
+* What if integramos límites de gastos en la aplicación.
+
+* What if cada vez que el usuario cumple un hito de ahorro, recibe una felicitación en su app que le indica que sube de nivel y gana una categoría.
+
+* What if lo hacemos como un juego?
+
+* What if si existen couch de ahorro personalizados o por temáticas (ejemplo: star wars, pokemon, avengers, etc.)
+
+* What if le brindamos a nuestros usuarios la posibilidad de elegir un avatar y un nickname.
+
+* What if si para ingresar a la app solo basta con la identificación por huella o patrón de seguridad.
+
+
 ## Planeamiento y validación de la solución
+
 * ¿Quiénes son los principales usuarios de producto?
 * ¿Cuáles son los objetivos del negocio en relación con el producto?
 * ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
