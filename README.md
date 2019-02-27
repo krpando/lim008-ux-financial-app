@@ -9,7 +9,12 @@
 * [Link de Zeplin](#link-de-Zeplin)
 * [Video Loom explicativo](#video-Loom-explicativo)
 
-## Introducción
+## Preámbulo
+
+El banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el equipo detrás de este nuevo producto ha decidido contratar a una agencia/consultora de UX que los ayude a definir la dirección y evolución del producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora de UX y son asignadas al proyecto.
+
+
+## Contexto
 
 El papel del desarrollo tecnológico en la industria financiera ya es un imperativo, una necesidad casi inherente de las entidades bancarias. En la actualidad es impensable contratar un servicio o producto bancario sin tener a disposición la opción de realizar transacciones o consultas a través de una banca celular, página web o aplicativo móvil. El proceso de transformación tecnológica e innovación digital de servicios financieros ha estado liderado por EEUU y Europa. En el 2018 el banco BBVA (España) fue reconocido por segundo año consecutivo como la entidad con la mejor aplicación móvil de banca a nivel mundial,  por encima de Garanti (Turquía) y de un total de 42 bancos de 11 países (Forrester, 2018). 
 
@@ -21,14 +26,28 @@ En el Perú, según el Departamento de Estudios Económicos de Scotiabank, el ah
 
 De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y la transformación digital del rubro financiero, existe una gran oportunidad para introducir productos digitales prestos a atender necesidades financieras y potenciar las soluciones de banca ya existentes.
 
-## Objetivos del proyecto
+"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. "Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
+
+### MVP inicial
+
+![MVP-inicial](images/mvp-inicial.png)
+
+### Landing Page incial del producto
+
+![MVP-inicial](images/landing-page-inicial.png)
+[Ir a la web](http://tus-finanzas.pagedemo.co/)
+
+### Objetivos del proyecto
 * Realizar una propuesta de rediseño de app con un flujo centrado en el usuario.
 
 * Brindar recomendaciones de presupuesto y pasos a seguir para el desarrollo de las soluciones ideales.
 
-## Implementación
+* Identificar, entender y validar los objetivos de negocio y stakeholders de la empresa y considerarlo en las etapas del desarrollo del producto.
+
+* Profundizar nuestra capacidad de análisis de data.
 
 ### Presupuesto
+
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
 |Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
@@ -40,7 +59,29 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || **TOTAL** | **290** |
 
-## Problemas encontrados
+## Investigación 
+
+### Objetivo de negocio
+- Posicionarse como un banco que brinde una herramienta adicional a sus clientes que les ayude a controlar sus gastos y que fomente la cultura del ahorro en ellos.
+
+Revisa la [guía de entrevista al cliente](https://drive.google.com/drive/u/0/folders/1_RqjPlYAT0a1KnDUxZQVJQoK06dToX2U)
+
+### Recursos
+Recursos entregados por nuestros clientes:
+
+- User persona primario y secundario del proyecto
+- User flows iniciales y actuales del proyecto del MVP
+- Diseño del app en Figma , con una guía de componentes y el Prototipo navegable
+- Funnel Analytics de los primeros 6 meses del MVP
+- Data de uso del MVP de los primeros 6 meses
+- Landing Page inicial del producto
+
+En base a estos, realizamos el análisis e indetificamos los siguientes problemas:
+
+## Problemática
+
+### Problemas a nivel de negocio
+### Problemas a nivel de usuario
 
 ### Testing del prototipo inicial: 
 Decidimos testear el prototipo actual con una cantidad de 15 usuarios con el fin de obtener los primeros problemas, conocer cómo interactuan con las distintas funcionalidades que ofrece la app. Para este fin utilizamos como herramienta Maze.
@@ -71,8 +112,7 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 
 Puedes revisar el reporte y detalle del testing inicial en Maze [aquí.](https://maze.design/r/46woy8ffjse4laiu)
 
-## Entendimiento del problema, la industria y el contexto
-"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. "Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
+
 
 ### User Persona
 ![User persona primario](images/user-primario.png)
