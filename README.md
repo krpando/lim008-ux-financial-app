@@ -43,6 +43,25 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 ## Problemas encontrados
 
 ### Testing del prototipo inicial: 
+Decidimos testear el prototipo actual con una cantidad de 15 usuarios con el fin de obtener los primeros problemas, conocer cómo interactuan con las distintas funcionalidades que ofrece la app. Para este fin utilizamos como herramienta Maze.
+
+Propusimos que desarrollen las funciones principales a través de tareas y encontramos los siguientes resultados:
+
+![testing](images/testing-maze-resumen.png)
+
+### Principales conclusiones del primer testing al producto inicial:
+
+- Notamos que existe confusión en la vista de ahorros, realizar una meta de ahorro está escrito como “Crear cuenta”.
+
+- Proceso largo para registrarse. 4 de las personas testeadas desertaron en el proceso de registro.
+
+- Usuarios no encuentran opción de volver al home cuando están en otra sección como ahorros, movimientos o gastos.
+
+- Los usuarios pierden el menú circular flotante al momento de realizar scroll en la app.
+
+- Huella digital: Los usuarios testeados en Android, indican que su celular no cuenta con esa opción.
+
+- Movimientos: los usuarios no observan el origen de la operación, comprenden detalles pero sienten la información desordenada e incompleta.
 
 ![testing](images/testing-1-maze-1.PNG)
 
