@@ -64,24 +64,67 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 ### Objetivo de negocio
 - Posicionarse como un banco que brinde una herramienta adicional a sus clientes que les ayude a controlar sus gastos y que fomente la cultura del ahorro en ellos.
 
-Revisa la [guía de entrevista al cliente](https://drive.google.com/drive/u/0/folders/1_RqjPlYAT0a1KnDUxZQVJQoK06dToX2U)
+Lee la [guía de entrevista al cliente](https://docs.google.com/document/d/1VUvD8Yw6R2EJ2qWMEscQPdg5pxXAbjsr2EWh6eUoSAU/edit)
+
+### Insights principales del negocio
+
+### Insights principales del usuario
+
+
+Lee la [guía de entrevista a usuario](https://docs.google.com/document/d/1fTS_hoWUfdpMc2ZxPnVSnDmG0xi_2y-Y3gRTQx5zIqw/edit?usp=drive_web&ouid=109584484767286568068)
 
 ### Recursos
 Recursos entregados por nuestros clientes:
 
-- User persona primario y secundario del proyecto
-- User flows iniciales y actuales del proyecto del MVP
-- Diseño del app en Figma , con una guía de componentes y el Prototipo navegable
-- Funnel Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
-- Landing Page inicial del producto
+* User persona primario y secundario del proyecto
+* User flows iniciales y actuales del proyecto del MVP
+* Diseño del app en Figma , con una guía de componentes y el Prototipo navegable
+* Funnel Analytics de los primeros 6 meses del MVP
+* Data de uso del MVP de los primeros 6 meses
+* Landing Page inicial del producto
 
-En base a estos, realizamos el análisis e indetificamos los siguientes problemas:
+## Síntesis y definición
 
-## Problemática
+### Affinity Diagram
+
+Mira nuestro [Affinity Map online]()
+
+
+### User Persona
+![User persona primario](images/user-primario.png)
+
+![User persona secundario](images/user-secundario.png)
+
+### Customer Journey Map
+
+En base a los recursos brindados y con ayuda del Customer Journey Map, realizamos el análisis e indetificamos los siguientes problemas:
 
 ### Problemas a nivel de negocio
+
 ### Problemas a nivel de usuario
+
+### Problem Statements
+
+### HMW
+
+### What if 
+
+## Planeamiento y validación de la solución
+* ¿Quiénes son los principales usuarios de producto?
+* ¿Cuáles son los objetivos del negocio en relación con el producto?
+* ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
+* ¿Cuál será la propuesta de valor del sitio que vas a crear?
+* ¿Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de confiar en la empresa que lo ofrece, encontrar lo que busca?
+* ¿Cómo crees que el producto les está resolviendo sus problemas?
+
+## Ideación
+
+### Benchmark
+![benchmark](images/benchmark.PNG)
+
+### User Flow
+
+### Prototype testing 
 
 ### Testing del prototipo inicial: 
 Decidimos testear el prototipo actual con una cantidad de 15 usuarios con el fin de obtener los primeros problemas, conocer cómo interactuan con las distintas funcionalidades que ofrece la app. Para este fin utilizamos como herramienta Maze.
@@ -92,19 +135,19 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 
 ### Conclusiones principales del primer testing al producto inicial:
 
-- Notamos que existe confusión en la vista de ahorros, realizar una meta de ahorro está escrito como “Crear cuenta”.
+* Notamos que existe confusión en la vista de ahorros, realizar una meta de ahorro está escrito como “Crear cuenta”.
 
-- Proceso largo para registrarse. 4 de las personas testeadas desertaron en el proceso de registro.
+* Proceso largo para registrarse. 4 de las personas testeadas desertaron en el proceso de registro.
 
-- Usuarios no encuentran opción de volver al home cuando están en otra sección como ahorros, movimientos o gastos.
+* Usuarios no encuentran opción de volver al home cuando están en otra sección como ahorros, movimientos o gastos.
 
-- Los usuarios pierden el menú circular flotante al momento de realizar scroll en la app.
+* Los usuarios pierden el menú circular flotante al momento de realizar scroll en la app.
 
-- Huella digital: Los usuarios testeados en Android, indican que su celular no cuenta con esa opción.
+* Huella digital: Los usuarios testeados en Android, indican que su celular no cuenta con esa opción.
 
-- Movimientos: los usuarios no observan el origen de la operación, comprenden detalles pero sienten la información desordenada e incompleta.
+* Movimientos: los usuarios no observan el origen de la operación, comprenden detalles pero sienten la información desordenada e incompleta.
 
-- No se cuenta con la opción de cerrar sesión.
+* No se cuenta con la opción de cerrar sesión.
 
 ![testing](images/testing-1-maze-1.PNG)
 
@@ -113,15 +156,22 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 Puedes revisar el reporte y detalle del testing inicial en Maze [aquí.](https://maze.design/r/46woy8ffjse4laiu)
 
 
+## Recomendaciones
 
-### User Persona
-![User persona primario](images/user-primario.png)
+### Modificaciones
+### Próximos desarrollos
+### Presupuesto de Marketing
 
-![User persona secundario](images/user-secundario.png)
+## Entregables
 
-## Benchmark
+## Video de Loom
 
-![benchmark](images/benchmark.PNG)
+## Zeplin
+
+## Hacker edition
+Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión en un documento adicional (en el formato que prefieras). 
+
+Mira nuestros compromisos en este [documento adicional]().
 
 ## Documentación
 Puedes revisar la documentación de este proyecto en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ).
