@@ -28,7 +28,11 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 
 ### Introducción
 
-"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. "Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
+"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. 
+
+Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. 
+
+"Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
 
 ### MVP inicial
 
@@ -37,7 +41,7 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 ### Landing Page incial del producto
 
 ![MVP-inicial](images/landing-page-inicial.png)
-[Ir a la web](http://tus-finanzas.pagedemo.co/)
+Ir a la web de [Tus finanzas](http://tus-finanzas.pagedemo.co/).
 
 ### Objetivos del proyecto
 * Realizar una propuesta de rediseño de app con un flujo centrado en el usuario.
@@ -57,7 +61,6 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || **TOTAL** | **290** |
 
@@ -65,15 +68,36 @@ De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y 
 ## Investigación 
 
 ### Objetivo de negocio
-- Posicionarse como un banco que brinde una herramienta adicional a sus clientes a fomentar una cultura de ahorro y les ayude a llevar el control de sus gastos.
+- Posicionarse como un banco que brinde una herramienta adicional dirigida a fomentar la conducta de ahorro en sus clientes, ayudándoles a llevar un control de sus gastos.
 
 ### Conclusiones de la entrevista con cliente
 
 Lee la [guía de entrevista al cliente](https://docs.google.com/document/d/1VUvD8Yw6R2EJ2qWMEscQPdg5pxXAbjsr2EWh6eUoSAU/edit)
 
+1. Interés en trabajar a partir de un equipo ágil, en el desarrollo de un producto fuera de los productos tradicionales que genere un valor agregado a lo ya esperado en un app de banco.
+2. El problema que desean resolver o la necesidad que desean abordar tiene que ver con la generacion de metas de ahorro que permitan a los clientes  generar una cultura de ahorro.
+3. El objetivo del banco es adquirir más clientes que les confíen su dinero.
+4. Esta app permite a los usuarios obtener información de sus gastos de una forma automática, sin necesidad de ingresar los montos manualmente al estar conectado a una cuenta del banco.
+5. Existen dudas con respecto al impacto del presupuesto asignado a publicidad en Facebook, en vista que no se han logrado las conversiones esperadas a nivel de usuarios registrados que estén usando la app. 
+6. Esperan que la investigación arroje luces sobre qué decisiones tomar con respecto a la inversión en publicidad y si los usuarios definidos son realmente representativos.
+7. De la presente iteración esperan generar mayor presencia de usuarios utilizando la app.
+8. La razón por la cual se lanza el producto al mercado en el sistema iOS es porque en el equipo que desarrolló el MVP contaban con un desarrollador en este sistema operativo y decidieron aprovechar este recurso.
+9. Desarrollar para android está dentro de los planes a corto plazo y es una alternativa que desearían explorar, teniendo en cuenta el proceso de investigación que se realice en esta iteración.
+10. Desean entender cómo mejorar o llevar a un siguiente nivel el producto, así como entender un poco mejor qué ocurrió con la aplicación en su primer lanzamiento.
+
 ### Conclusiones de la entrevista con usuarios
 
 Lee la [guía de entrevista a usuario](https://docs.google.com/document/d/1fTS_hoWUfdpMc2ZxPnVSnDmG0xi_2y-Y3gRTQx5zIqw/edit?usp=drive_web&ouid=109584484767286568068)
+
+1. Los usuarios que no cuentan con una cultura de ahorro indican que es debido a: no contar con ingresos económicos suficientes y la falta de una motivación o ayuda externa.
+2. Para los usuarios que si suelen ahorrar, la dificultad principal reside en los gastos imprevisto y las metas poco claras o consistentes.
+3. Las formas de ahorro más comunes tienen que ver con herramientas o personas externas que ayudan a mantener el dinero ahorrado a salvo de gastos no contemplados.
+4. El ahorro en grupo y por medio de juntas no son considerados alternativas confiables.
+5. Los usuarios valoran las medidas de seguridad como lector de huella dactilar y envio de códigos de token a través de mensajes de texto en vista que ofrecen seguridad y rapidez en la transacción.
+6. Existe una marcada preferencia por el uso de canales de atención relacionados con tecnología debido a la accesibilidad, inmediatez y facilidad en su uso.
+7. Las operaciones más comunes realizadas en apps de bancos son: pagos de servicios y consulta de movimiento o saldo.
+8. Los usuarios con experiencia en uso de aplicaciones para ahorro o control de gastos refieren haber tenido dificultades en el manejo de las mismas por la gran cantidad de opciones y poca claridad de funcionalidades.
+9. Con respecto a la gestión de gastos, los usuarios manifestaron la necesidad de organizarlos por prioridad, no ejerciendo un control excesivo de los mismos dando pie a que puedan destinar un monto al ahorro.
 
 ### Recursos
 Recursos entregados por nuestros clientes:
@@ -89,14 +113,37 @@ Recursos entregados por nuestros clientes:
 
 ### Affinity Diagram
 
-### Insights principales del cliente
+**Insights principales del cliente**
+- Una aplicación de banco ya se volvió un comodity.
+- Buscamos algo que les ayude a ellos a establecer metas y nos ayude mantener el dinero para poder invertirlo y obtener ganacias.
+- La aplicación queremos que se enfoque a que ayude al cliente a ahorrar o crear esta cultura de ahorro si quiere hacerlo.
+- La aplicación genérica del banco permite ver estados de cuenta, pago de servicios o tarjetas, acceder a todos los servicios que tienes en físico, todas las funciones que te permite hacer cualquier otra app de banco.
+- No tenemos una aplicación especifica en mente porque lo que intentamos es ver que hay en el mercado como para ver qué idea interesante podríamos replicar en nuestro contexto.
+- El plus de esta (aplicación) sería que está relacionada directamente con tu cuenta del banco.
+- Decidimos aprovechar que la mayoría de dispositivos iOS vienen con el tema de la huella y vimos que en ciertas aplicaciones te permite desbloquear con la huella y decidimos aprovechar esto.
 
-### Insights principales de la entrevista con usuarios
+**Insights principales de la entrevista con usuarios**
+- Me transmite seguridad porque me pide varios permisos, DNI, código de usuario, y cada vez que hago una operación me envían el token digital que varía por operación que realicé.
+- El canal de atención que más uso es la app del banco porque me da muchas facilidades.
+- También ahorraba manteniendo el dinero en la tarjeta, al no tener efectivo, no gastaba.
+- Me pongo una meta, pero no siempre termino ahorrando lo que me propuse al inicio.
+- No hacer gastos innecesarios, hacer un planeamiento mensual que me permita gastar solo lo necesario y lo demás ahorrarlo.
+- No me inspira confianza los ahorros grupales porque no conoces bien a la otra persona, o te pueden hacer quedar mal.
+- Desinstalé el app de ahorro porque tenía demasiadas opciones, habían cosas que eran innecesarias.
+- Me gusta la aplicación porque me ahorra muchísimo tiempo, es muy fluida y la seguridad que me transmite.
+- Tendría que tener una motivación, una meta que me incentive ahorrar.
 
 ### Conclusiones del Affinity Map
 
-Mira nuestro [Affinity Map online]()
+Los principales grupos de ideas que pudimos extraer de este ejercicio tienen que ver con los siguientes puntos:
+1. La necesidad de ahorrar o establecer un hábito de ahorro dirigido a metas, constante y apoyado por un elemento externo que impida incurrir en gastos innecesarios.
+2. La importancia de contar con una aplicación que brinde seguridad, pero que también sea fácil de usar, sencilla e interactiva.
+3. La posibilidad de realizar una gestión de gastos que permita el ahorro.
+4. Tener una aplicación que integre la mayor cantidad de funciones de forma entendible y funcional, que permita la gestión de las finanzas desde una misma plataforma.
+5. Poder ofrecer opciones que se ajusten a las necesidades de quienes ya tienen el hábito del ahorro y quieren mejorar, y para quienes estan iniciando recién en la cultura del ahorro.
+6. Encontrar una app que funcione como un amigo o amiga que te motiva a ahorrar, te recuerda tus metas y te felicita por tus logros.
 
+Mira nuestro [Affinity Map online](https://realtimeboard.com/app/board/o9J_kyWxqYQ=/)
 
 ### User Persona
 ![User persona primario](images/user-primario.png)
@@ -112,17 +159,17 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 ### Problemas a nivel de usuario
 
 ### Problem Statements
-* Toñita Savings necesita una manera rápida y segura de ingresar a la app financiera sin que le pidan sus credenciales cada vez que quiere revisar sus cuentas.
+* Paula Cayetano necesita una manera rápida y segura de ingresar a la app financiera sin que le pidan sus credenciales cada vez que quiere revisar sus cuentas.
 
-* Toñita Savings necesita recibir recordatorios o notificaciones de su app cuando esté sobrepasando sus gastos, cuando haya alcanzado un hito en su meta de ahorro.
+* Paula Cayetano necesita recibir recordatorios o notificaciones de su app cuando esté sobrepasando sus gastos, cuando haya alcanzado un hito en su meta de ahorro.
 
-* Toñita Savings necesita desarrollar el hábito de ahorrar teniendo opciones que se ajusten a la cantidad de dinero que gana y metas pequeñas o a corto plazo.
+* Paula Cayetano necesita desarrollar el hábito de ahorrar teniendo opciones que se ajusten a la cantidad de dinero que gana y metas pequeñas o a corto plazo.
 
-* Toñita Savings necesita acceder a un producto bancario que le permita guardar sus ahorros y separarlos del resto de dinero del cual dispone.
+* Paula Cayetano necesita acceder a un producto bancario que le permita guardar sus ahorros y separarlos del resto de dinero del cual dispone.
 
-* Toñita Savings necesita comunicarse con su banco para resolver dudas sin tener que realizar una llamada o visitar las oficinas de forma física.
+* Paula Cayetano necesita comunicarse con su banco para resolver dudas sin tener que realizar una llamada o visitar las oficinas de forma física.
 
-* Julio Aguinaldo necesita recibir notificaciones de sus fechas de depósito a su cuenta ahorro, para autorizar el débito del monto programado.
+* Rodrigo Vera necesita recibir notificaciones de sus fechas de depósito a su cuenta ahorro, para autorizar el débito del monto programado.
 
 ### HMW
 
