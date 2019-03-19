@@ -64,7 +64,6 @@ Ir a la web de [Tus finanzas](http://tus-finanzas.pagedemo.co/).
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || **TOTAL** | **290** |
 
-
 ## Investigación 
 
 ### Objetivo de negocio
@@ -113,7 +112,7 @@ Recursos entregados por nuestros clientes:
 
 ### Affinity Diagram
 
-**Insights principales del cliente**
+**Principales quotes del cliente**
 - Una aplicación de banco ya se volvió un comodity.
 - Buscamos algo que les ayude a ellos a establecer metas y nos ayude mantener el dinero para poder invertirlo y obtener ganacias.
 - La aplicación queremos que se enfoque a que ayude al cliente a ahorrar o crear esta cultura de ahorro si quiere hacerlo.
@@ -122,7 +121,7 @@ Recursos entregados por nuestros clientes:
 - El plus de esta (aplicación) sería que está relacionada directamente con tu cuenta del banco.
 - Decidimos aprovechar que la mayoría de dispositivos iOS vienen con el tema de la huella y vimos que en ciertas aplicaciones te permite desbloquear con la huella y decidimos aprovechar esto.
 
-**Insights principales de la entrevista con usuarios**
+**Principales quotes de la entrevista con usuarios**
 - Me transmite seguridad porque me pide varios permisos, DNI, código de usuario, y cada vez que hago una operación me envían el token digital que varía por operación que realicé.
 - El canal de atención que más uso es la app del banco porque me da muchas facilidades.
 - También ahorraba manteniendo el dinero en la tarjeta, al no tener efectivo, no gastaba.
@@ -146,17 +145,23 @@ Los principales grupos de ideas que pudimos extraer de este ejercicio tienen que
 Mira nuestro [Affinity Map online](https://realtimeboard.com/app/board/o9J_kyWxqYQ=/)
 
 ### User Persona
+
+De la investigación realizada pudimos extraer que los User Persona brindados por el cliente no eran representativos, validando una de nuestras hipósis acerca del poco impacto de la publicidad en Facebook a causa de una errónea segmentación basada en estos User Persona. Nuestra propuesta para los nuevos User Persona se presenta a continuación:
+
 ![User persona primario](images/user-primario.png)
 
 ![User persona secundario](images/user-secundario.png)
 
 ### Customer Journey Map
 
+![Customer Journey Map](images/CJM_AppFinanciera.png)
+
 En base a los recursos brindados y con ayuda del Customer Journey Map, realizamos el análisis e indetificamos los siguientes problemas:
 
-### Problemas a nivel de negocio
-
-### Problemas a nivel de usuario
+- La segmentación del público objetivo según los User Persona iniciales es errónea. 
+- El no segmentar correctamente al público objetivo se traduce en menos visitas a la Landing Page y, por ende, menos conversiones.
+- La Landing Page no indica disponibilidad para sistemas operativos  y no muestra suficiente información de valor y confianza para el usuario.
+- La aplicación es poco intuitiva en lo siguientes puntos de contacto: Creación de metas de ahorro, Cierre de sesión.
 
 ### Problem Statements
 * Paula Cayetano necesita una manera rápida y segura de ingresar a la app financiera sin que le pidan sus credenciales cada vez que quiere revisar sus cuentas.
@@ -198,7 +203,6 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 * What if si para ingresar a la app solo basta con la identificación por huella o patrón de seguridad.
 
-
 ## Planeamiento y validación de la solución
 
 * ¿Quiénes son los principales usuarios de producto?
@@ -213,7 +217,7 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 ### Benchmark
 ![benchmark](images/benchmark.PNG)
 
-### User Flow
+Ver [User Flow](images/FlowMap.png)
 
 ## Prototipos
 
@@ -248,8 +252,11 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 
 Puedes revisar el reporte y detalle del testing inicial en Maze [aquí.](https://maze.design/r/46woy8ffjse4laiu)
 
-
 ## Recomendaciones
+
+- Invertir presupuesto en crear la app para Android OS con la finalidad de aumentar las conversiones.
+- Corregir la segmentación de la publicidad en Facebook y considerar Instagram como plataforma principal para promocionar la aplicación.
+- Integrar las modificaciones realizadas en la aplicación actual para mejorar la experiencia de los usuarios que ya están fidelizados.
 
 ### Modificaciones
 ### Próximos desarrollos
