@@ -254,15 +254,20 @@ Puedes revisar el reporte y detalle del testing inicial en Maze [aquí.](https:/
 
 ## Recomendaciones
 
-- Invertir presupuesto en crear la app para Android OS con la finalidad de aumentar las conversiones.
-- Corregir la segmentación de la publicidad en Facebook y considerar Instagram como plataforma principal para promocionar la aplicación.
-- Integrar las modificaciones realizadas en la aplicación actual para mejorar la experiencia de los usuarios que ya están fidelizados.
+1. Integrar las modificaciones realizadas en la aplicación actual para mejorar la experiencia de los usuarios que ya están fidelizados.
+2. Invertir presupuesto en crear la app para Android OS con la finalidad de aumentar las conversiones.
+3. Corregir la segmentación de la publicidad en Facebook y considerar Instagram como plataforma principal para promocionar la aplicación.
 
-### Modificaciones
 ### Próximos desarrollos
-### Presupuesto de Marketing
+Como recomendación para próximos desarrollos señalamos los siguientes puntos a considerar:
+- Incluir hitos dentro de las metas de ahorro que permitan ofrecer beneficios/premios a los usuarios como por ejemplo, descuentos, tazas bajas, aprobación de préstamos o algún otro incentivo ligado a productos bancarios.
+- Potenciar las funciones del coach del ahorro considerando la de detectar cuando exista un abono extra o una nueva oportunidad de ahorro.
+- Además de la funcionalidad anterior, considerar realizar preguntas de forma periodica acerca de comportamiento financiero, preferencias o hábitos de consumo que puedan alimentar futuras ofertas a nivel de servicios y produtos bancarios.
+- Agregar a las notificaciones consejos de banca y administración financiera.
+- Estudiar la posibilidad de ofrecer un tipo de ahorro ligado a la devolución de impuestos por consumo y ligarlo a la funcionalidad de la captura de boletas o facturas.
 
 ## Entregables
+
 
 ## Video de Loom
 
