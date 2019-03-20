@@ -6,6 +6,7 @@
 * [Objetivos del proyecto](#objetivos-del-proyecto)
 * [Problemas encontrados](#problemas-encontrados)
 * [Recomendaciones](#recomendaciones)
+* [Próximos desarrollos](#proximos-desarollos)
 * [Link de Zeplin](#link-de-Zeplin)
 * [Video Loom explicativo](#video-Loom-explicativo)
 
@@ -233,17 +234,11 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 ### Conclusiones principales del primer testing al producto inicial:
 
 * Notamos que existe confusión en la vista de ahorros, realizar una meta de ahorro está escrito como “Crear cuenta”.
-
 * Proceso largo para registrarse. 4 de las personas testeadas desertaron en el proceso de registro.
-
 * Usuarios no encuentran opción de volver al home cuando están en otra sección como ahorros, movimientos o gastos.
-
 * Los usuarios pierden el menú circular flotante al momento de realizar scroll en la app.
-
 * Huella digital: Los usuarios testeados en Android, indican que su celular no cuenta con esa opción.
-
 * Movimientos: los usuarios no observan el origen de la operación, comprenden detalles pero sienten la información desordenada e incompleta.
-
 * No se cuenta con la opción de cerrar sesión.
 
 ![testing](images/testing-1-maze-1.PNG)
@@ -253,7 +248,6 @@ Propusimos que desarrollen las funciones principales a través de tareas y encon
 Puedes revisar el reporte y detalle del testing inicial en Maze [aquí.](https://maze.design/r/46woy8ffjse4laiu)
 
 ## Recomendaciones
-
 1. Integrar las modificaciones realizadas en la aplicación actual para mejorar la experiencia de los usuarios que ya están fidelizados.
 2. Invertir presupuesto en crear la app para Android OS con la finalidad de aumentar las conversiones.
 3. Corregir la segmentación de la publicidad en Facebook y considerar Instagram como plataforma principal para promocionar la aplicación.
@@ -266,19 +260,16 @@ Como recomendación para próximos desarrollos señalamos los siguientes puntos 
 - Agregar a las notificaciones consejos de banca y administración financiera.
 - Estudiar la posibilidad de ofrecer un tipo de ahorro ligado a la devolución de impuestos por consumo y ligarlo a la funcionalidad de la captura de boletas o facturas.
 
+![NextDev](images/PrxDev.PNG)
+
 ## Entregables
 
 
 ## Video de Loom
 
-## Zeplin
 
-## Hacker edition
-Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión en un documento adicional (en el formato que prefieras). 
-
-Mira nuestros compromisos en este [documento adicional]().
+## Diseño visual
+Puedes ver en el siguiente [link]() información acerca del diseño visual de la solución propuesta, a través de `Marvel HandOff`.
 
 ## Documentación
 Puedes revisar la documentación de este proyecto en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ).
-
-
