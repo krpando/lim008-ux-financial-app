@@ -7,7 +7,7 @@
 * [Problemas encontrados](#problemas-encontrados)
 * [Recomendaciones](#recomendaciones)
 * [Próximos desarrollos](#proximos-desarollos)
-* [Link de Zeplin](#link-de-Zeplin)
+* [Diseño visual](#diseño-visual)
 * [Video Loom explicativo](#video-Loom-explicativo)
 
 ## Preámbulo
@@ -260,7 +260,7 @@ Como recomendación para próximos desarrollos señalamos los siguientes puntos 
 - Agregar a las notificaciones consejos de banca y administración financiera.
 - Estudiar la posibilidad de ofrecer un tipo de ahorro ligado a la devolución de impuestos por consumo y ligarlo a la funcionalidad de la captura de boletas o facturas.
 
-![NextDev](images/PrxDev.PNG)
+![NextDev](images/NextDev.PNG)
 
 ## Entregables
 
@@ -269,7 +269,7 @@ Como recomendación para próximos desarrollos señalamos los siguientes puntos 
 
 
 ## Diseño visual
-Puedes ver en el siguiente [link]() información acerca del diseño visual de la solución propuesta, a través de `Marvel HandOff`.
+Puedes ver en el siguiente [link](https://projects.invisionapp.com/freehand/document/u9yLMDZnE) información acerca del diseño visual de la solución propuesta, a través de `Invision inspects`.
 
 ## Documentación
 Puedes revisar la documentación de este proyecto en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ).
