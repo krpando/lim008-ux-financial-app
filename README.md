@@ -260,7 +260,7 @@ Como recomendación para próximos desarrollos señalamos los siguientes puntos 
 - Agregar a las notificaciones consejos de banca y administración financiera.
 - Estudiar la posibilidad de ofrecer un tipo de ahorro ligado a la devolución de impuestos por consumo y ligarlo a la funcionalidad de la captura de boletas o facturas.
 
-![NextDev](images/NextDev.PNG)
+![NextDev](images/nextDev.png)
 
 ## Entregables
 
