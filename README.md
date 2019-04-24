@@ -2,18 +2,28 @@
 
 ## Índice
 
+* [Introducción](#introducción)
 * [Contexto](#contexto)
 * [Objetivos del proyecto](#objetivos-del-proyecto)
-* [Problemas encontrados](#problemas-encontrados)
+* [Investigación](#investigación)
+* [Síntesis y definición](#síntesis-y-definición)
+* [Ideación](#ideación)
+* [Prototipado](#prototipado)
+* [Testing](#testing)
 * [Recomendaciones](#recomendaciones)
-* [Próximos desarrollos](#proximos-desarollos)
-* [Diseño visual](#diseño-visual)
-* [Video Loom explicativo](#video-Loom-explicativo)
+* [Documentación](#documentación)
 
-## Preámbulo
+## Desafío
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el equipo detrás de este nuevo producto ha decidido contratar a una agencia/consultora de UX que los ayude a definir la dirección y evolución del producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora de UX y son asignadas al proyecto.
 
+## Introducción
+
+"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. 
+
+Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. 
+
+"Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
 
 ## Contexto
 
@@ -27,13 +37,15 @@ En el Perú, según el Departamento de Estudios Económicos de Scotiabank, el ah
 
 De esta manera, teniendo en cuenta el crecimiento de las prácticas de ahorro y la transformación digital del rubro financiero, existe una gran oportunidad para introducir productos digitales prestos a atender necesidades financieras y potenciar las soluciones de banca ya existentes.
 
-### Introducción
+### Recursos
+Recursos entregados por nuestros clientes:
 
-"Tus finanzas" es una aplicación móvil que permite a sus usuarios y usuarias tener un mejor control de su dinero y fomenta el hábito del ahorro, a través de funciones como: Mirar en detalle de sus transacciones (dónde y qué se gastó), crear metas de ahorros y administrar sus gastos (mirar gastos por categorías). Fue lanzada al mercado de forma independiente a la aplicación genérica del banco pero mantiene la conexión con esta para permitir a los usuarios y usuarias de la entidad acceder a la información de sus cuentas y créditos de forma fácil y rápida. 
-
-Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad ha sido Facebook Ads, observándose una buena respuesta por parte del público. Esto a pesar que uno de los obstáculos principales de la aplicación es que solo se encuentra disponible para el sistema operatido iOS, limitando de esta forma su alcance por la cantidad de usuarios de otros sistemas operativos como Android, que en Latinoamérica tiene una presencia más que importante. 
-
-"Tus finanzas", busca convertirse en la primera aplicación bancaria en incluir estas características propias de aplicaciones no conectadas a una institución financiera o similar, para esto la empresa requiere tener mejor definidos a sus usuarios o usuarias, un adecuado user flow e integrar mejoras que respondan a las necesidades reportadas por estos usuarios.
+* User persona primario y secundario del proyecto
+* User flows iniciales y actuales del proyecto del MVP
+* Diseño del app en Figma , con una guía de componentes y el Prototipo navegable
+* Funnel Analytics de los primeros 6 meses del MVP
+* Data de uso del MVP de los primeros 6 meses
+* Landing Page inicial del producto
 
 ### MVP inicial
 
@@ -43,15 +55,6 @@ Durante los 6 meses de vida de la aplicación, su principal fuente de publicidad
 
 ![MVP-inicial](images/landing-page-inicial.png)
 Ir a la web de [Tus finanzas](http://tus-finanzas.pagedemo.co/).
-
-### Objetivos del proyecto
-* Realizar una propuesta de rediseño de app con un flujo centrado en el usuario.
-
-* Brindar recomendaciones de presupuesto y pasos a seguir para el desarrollo de las soluciones ideales.
-
-* Identificar, entender y validar los objetivos de negocio y stakeholders de la empresa y considerarlo en las etapas del desarrollo del producto.
-
-* Profundizar nuestra capacidad de análisis de data.
 
 ### Presupuesto
 
@@ -64,6 +67,15 @@ Ir a la web de [Tus finanzas](http://tus-finanzas.pagedemo.co/).
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 || **TOTAL** | **290** |
+
+## Objetivos del proyecto
+* Realizar una propuesta de rediseño de app con un flujo centrado en el usuario.
+
+* Brindar recomendaciones de presupuesto y pasos a seguir para el desarrollo de las soluciones ideales.
+
+* Identificar, entender y validar los objetivos de negocio y stakeholders de la empresa y considerarlo en las etapas del desarrollo del producto.
+
+* Profundizar nuestra capacidad de análisis de data.
 
 ## Investigación 
 
@@ -99,19 +111,9 @@ Lee la [guía de entrevista a usuario](https://docs.google.com/document/d/1fTS_h
 8. Los usuarios con experiencia en uso de aplicaciones para ahorro o control de gastos refieren haber tenido dificultades en el manejo de las mismas por la gran cantidad de opciones y poca claridad de funcionalidades.
 9. Con respecto a la gestión de gastos, los usuarios manifestaron la necesidad de organizarlos por prioridad, no ejerciendo un control excesivo de los mismos dando pie a que puedan destinar un monto al ahorro.
 
-### Recursos
-Recursos entregados por nuestros clientes:
-
-* User persona primario y secundario del proyecto
-* User flows iniciales y actuales del proyecto del MVP
-* Diseño del app en Figma , con una guía de componentes y el Prototipo navegable
-* Funnel Analytics de los primeros 6 meses del MVP
-* Data de uso del MVP de los primeros 6 meses
-* Landing Page inicial del producto
-
 ## Síntesis y definición
 
-### Affinity Diagram
+### Affinity Map
 
 **Principales quotes del cliente**
 - Una aplicación de banco ya se volvió un comodity.
@@ -133,8 +135,7 @@ Recursos entregados por nuestros clientes:
 - Me gusta la aplicación porque me ahorra muchísimo tiempo, es muy fluida y la seguridad que me transmite.
 - Tendría que tener una motivación, una meta que me incentive ahorrar.
 
-### Conclusiones del Affinity Map
-
+**Conclusiones del Affinity Map**
 Los principales grupos de ideas que pudimos extraer de este ejercicio tienen que ver con los siguientes puntos:
 1. La necesidad de ahorrar o establecer un hábito de ahorro dirigido a metas, constante y apoyado por un elemento externo que impida incurrir en gastos innecesarios.
 2. La importancia de contar con una aplicación que brinde seguridad, pero que también sea fácil de usar, sencilla e interactiva.
@@ -177,10 +178,14 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 * Rodrigo Vera necesita recibir notificaciones de sus fechas de depósito a su cuenta ahorro, para autorizar el débito del monto programado.
 
+## Ideación
+
+### Benchmark
+![benchmark](images/benchmark.PNG)
+
 ### HMW
 
 * HMW generar en nuestros usuarios una sensación de seguridad al realizar operaciones en la aplicación?
-
 
 ### What if 
 
@@ -204,23 +209,9 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 * What if si para ingresar a la app solo basta con la identificación por huella o patrón de seguridad.
 
-## Planeamiento y validación de la solución
-
-* ¿Quiénes son los principales usuarios de producto?
-* ¿Cuáles son los objetivos del negocio en relación con el producto?
-* ¿Cuáles son los objetivos de estos usuarios en relación con el producto?
-* ¿Cuál será la propuesta de valor del sitio que vas a crear?
-* ¿Cuáles son los contenidos que el usuario quiere ver, la información que buscarían para convencerse de confiar en la empresa que lo ofrece, encontrar lo que busca?
-* ¿Cómo crees que el producto les está resolviendo sus problemas?
-
-## Ideación
-
-### Benchmark
-![benchmark](images/benchmark.PNG)
+## Prototipado
 
 Ver [User Flow](images/FlowMap.png)
-
-## Prototipos
 
 ## Testing
 
@@ -262,14 +253,8 @@ Como recomendación para próximos desarrollos señalamos los siguientes puntos 
 
 ![NextDev](https://i.ibb.co/nw339n5/nextDev.png)
 
-## Entregables
-
-
-## Video de Loom
-
-
-## Diseño visual
-Puedes ver en el siguiente [link](https://zpl.io/scene/bPPEJ9M) información acerca del diseño visual de la solución propuesta, a través de `Zeplin`.
-
 ## Documentación
 Puedes revisar la documentación de este proyecto en [Google Drive](https://drive.google.com/drive/folders/1ueIXQAb0uIvFChjjfdHhN-ItTmbN5psJ).
+
+### Diseño visual
+Puedes ver en el siguiente [link](https://zpl.io/scene/bPPEJ9M) información acerca del diseño visual de la solución propuesta, a través de `Zeplin`.
