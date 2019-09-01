@@ -84,7 +84,7 @@ Ir a la web de [Tus finanzas](http://tus-finanzas.pagedemo.co/).
 
 ### Conclusiones de la entrevista con cliente
 
-Lee la [guía de entrevista al cliente](https://docs.google.com/document/d/1VUvD8Yw6R2EJ2qWMEscQPdg5pxXAbjsr2EWh6eUoSAU/edit)
+Lee la [guía de entrevista al cliente](docs/Client.docx)
 
 1. Interés en trabajar a partir de un equipo ágil, en el desarrollo de un producto fuera de los productos tradicionales que genere un valor agregado a lo ya esperado en un app de banco.
 2. El problema que desean resolver o la necesidad que desean abordar tiene que ver con la generacion de metas de ahorro que permitan a los clientes  generar una cultura de ahorro.
@@ -99,7 +99,7 @@ Lee la [guía de entrevista al cliente](https://docs.google.com/document/d/1VUvD
 
 ### Conclusiones de la entrevista con usuarios
 
-Lee la [guía de entrevista a usuario](https://docs.google.com/document/d/1fTS_hoWUfdpMc2ZxPnVSnDmG0xi_2y-Y3gRTQx5zIqw/edit?usp=drive_web&ouid=109584484767286568068)
+Lee la [guía de entrevista a usuario](docs/User.docx)
 
 1. Los usuarios que no cuentan con una cultura de ahorro indican que es debido a: no contar con ingresos económicos suficientes y la falta de una motivación o ayuda externa.
 2. Para los usuarios que si suelen ahorrar, la dificultad principal reside en los gastos imprevisto y las metas poco claras o consistentes.
@@ -165,6 +165,8 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 - La Landing Page no indica disponibilidad para sistemas operativos  y no muestra suficiente información de valor y confianza para el usuario.
 - La aplicación es poco intuitiva en lo siguientes puntos de contacto: Creación de metas de ahorro, Cierre de sesión.
 
+## Ideación 
+
 ### Problem Statements
 * Paula Cayetano necesita una manera rápida y segura de ingresar a la app financiera sin que le pidan sus credenciales cada vez que quiere revisar sus cuentas.
 
@@ -178,9 +180,8 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 * Rodrigo Vera necesita recibir notificaciones de sus fechas de depósito a su cuenta ahorro, para autorizar el débito del monto programado.
 
-## Ideación
+### Benchmark 
 
-### Benchmark
 ![benchmark](images/benchmark.PNG)
 
 ### HMW
@@ -211,11 +212,11 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 ## Prototipado
 
-Ver Prototipo en [Marvel](https://marvelapp.com/42c0aa7/screen/54332343)
+Ver Prototipo en [Marvel](https://marvelapp.com/42c0aa7/screen/54332343)  
 Ver [User Flow](images/FlowMap.png)
 
 Vista previa de vistas (Flujo Creación de Meta de Ahorro):
-![ahorro](images/flujoahorro.png)
+![ahorro](images/flujoahorro.gif)
 
 ## Testing
 
