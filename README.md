@@ -211,7 +211,11 @@ En base a los recursos brindados y con ayuda del Customer Journey Map, realizamo
 
 ## Prototipado
 
+Ver Prototipo en [Marvel](https://marvelapp.com/42c0aa7/screen/54332343)
 Ver [User Flow](images/FlowMap.png)
+
+Vista previa de vistas (Flujo Creación de Meta de Ahorro):
+![ahorro](images/flujoahorro.png)
 
 ## Testing
 
